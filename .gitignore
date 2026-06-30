@@ -1,0 +1,54 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local evidence and sensitive material
+*.pcap
+*.pcapng
+*.evtx
+*.log
+*.har
+*.burp
+*.sqlite
+*.db
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.pem
+*.key
+*.pfx
+*.p12
+*.kdbx
+.env
+.env.*
+secrets.*
+credentials.*
+tokens.*
+private/
+_private/
+client-data/
+raw-evidence/
+unredacted/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+out/

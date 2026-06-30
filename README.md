@@ -32,3 +32,12 @@ I document offensive security concepts through controlled labs, safe proof-of-co
 | Cloud Security | AWS IAM, logging, and detection labs |
 | Adversary Emulation | Controlled lab infrastructure and telemetry validation |
 | Reporting | CWE, CVSS, evidence, remediation, and executive summaries |
+
+
+## Portfolio Index
+
+<!-- PORTFOLIO_INDEX_START -->
+| Area | Artifact | Description | Path |
+|---|---|---|---|
+| No artifacts yet | Create one with `--mode NewItem` |  |  |
+<!-- PORTFOLIO_INDEX_END -->
